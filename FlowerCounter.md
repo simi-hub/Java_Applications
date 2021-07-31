@@ -1,0 +1,5 @@
+This program computes the cost of flowers sold at a flower stand. Five kinds of flowers—petunia, pansy, rose, violet, and carnation—are stocked and cost, respectively, 50¢, 75¢, $1.50, 50¢, and 80¢ per flower. The program computes and display total cost of sale depending on which flower the user gets.
+
+Actual Question
+
+Write a program in a class FlowerCounter that computes the cost of flowers sold at a flower stand. Five kinds of flowers—petunia, pansy, rose, violet, and carnation—are stocked and cost, respectively, 50¢, 75¢, $1.50, 50¢, and 80¢ per flower. Create an array of strings that holds the names of these flowers. Create another array that holds the cost of each corresponding flower. Your program should read the name of a flower and the quantity desired by a customer. Locate the flower in the name array and use that index to find the cost per item in the cost array. Compute and print the total cost of the sale.
