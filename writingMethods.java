@@ -1,6 +1,6 @@
 //Program written by Mosinmiloluwa Ojeyomi (Simi)
 //Created on July 29, 2021
-//This program contains methods that are written based on the questions
+//This program contains methods that are written based on the questions, refer to writingMethods.md
 
 import java.util.Scanner;
 
