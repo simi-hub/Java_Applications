@@ -1,5 +1,5 @@
 //Program written by Mosinmiloluwa Ojeyomi (Simi)
-//Created on July 29, 2021
+//Created on July 29, 2021,
 //This program contains methods that are written based on the questions, refer to writingMethods.md
 
 import java.util.Scanner;
@@ -46,7 +46,7 @@ public class writingMethods
     }
 
 
-    //unfortunately, for this method, i had to set the day to a specific day, it will always return Friday
+    //unfortunately, for this method, I had to set the day to a specific day, it will always return Friday
     //I am not yet sure how to do it yet
 
     public static String nextDay()
