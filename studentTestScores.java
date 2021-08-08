@@ -1,5 +1,5 @@
 //Program written by Mosinmiloluwa Ojeyomi (Simi)
-//Created on July 12, 2021
+//Created on July 12, 2021,
 //This program allows a user to enter any number of student test
 
 import java.util.Scanner;
