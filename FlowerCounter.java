@@ -1,5 +1,5 @@
 //Program written by Mosinmiloluwa Ojeyomi (Simi)
-//Created on July 21, 2021
+//Created on July 21, 2021,
 //This program allows user to compute the cost of flowers sold at a flower stand.
 
 import java.util.Scanner;
