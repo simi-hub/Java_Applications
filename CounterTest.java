@@ -37,5 +37,7 @@ public class CounterTest
         ct.decreaseCount();
         ct.printCount();
 
+        System.out.println(ct.getCount());//going to be negative because count is negative
+
     }
 }
