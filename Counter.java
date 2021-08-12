@@ -33,6 +33,10 @@ public class Counter
 
     public int getCount()//This method gets the count, accessor method
     {
+        if (count < 0)//make sure that count is not negative
+        {
+        System.out.println("Current count is unusable");
+        }
         return count;
     }
 
